@@ -1,0 +1,6 @@
+framework module Pods_SimpleTimer {
+  umbrella header "Pods-SimpleTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
